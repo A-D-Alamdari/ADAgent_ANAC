@@ -1,0 +1,10 @@
+{
+  "num_offers": 144,
+  "agent_1": "LuckyAgent2022",
+  "utility_1": 0.9453143368,
+  "agent_2": "ADAgent",
+  "utility_2": 0.474478944,
+  "nash_product": 0.44853174827292436,
+  "social_welfare": 1.4197932808,
+  "result": "agreement"
+}

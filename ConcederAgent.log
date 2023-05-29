@@ -1,0 +1,3 @@
+2023-05-29 11:29:53,305 - ConcederAgent - INFO - party is initialized
+2023-05-29 11:29:57,240 - ConcederAgent - INFO - Final ourcome:Finished[Agreements{agents_conceder_agent_conceder_agent_ConcederAgent_1=Bid{issueD="valueI", issueC="valueA", issueA="valueB", issueB="valueB", issueE="valueB"}, agents_ada_agent_ada_agent_ADAgent_2=Bid{issueD="valueI", issueC="valueA", issueA="valueB", issueB="valueB", issueE="valueB"}}]
+2023-05-29 11:29:57,246 - ConcederAgent - INFO - party is terminating:

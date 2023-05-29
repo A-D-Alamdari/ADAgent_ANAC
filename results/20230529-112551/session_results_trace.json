@@ -1,0 +1,1516 @@
+{
+  "actions": [
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueA": "valueB",
+            "issueE": "valueM"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 1.0,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2061406266
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueA": "valueB",
+            "issueE": "valueK"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.9871743368,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2244574044
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueG",
+            "issueA": "valueB",
+            "issueE": "valueM"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.9824832644,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1861721662
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueA": "valueB",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.978770694,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2781806367
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueG",
+            "issueA": "valueB",
+            "issueE": "valueK"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.9696576012,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.204488944
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueM"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.95814,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.4561621662
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueH",
+            "issueA": "valueB",
+            "issueE": "valueM"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.9677895672,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2168511299
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueC",
+            "issueA": "valueB",
+            "issueE": "valueM"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.9658531236,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3062340193
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueD",
+            "issueA": "valueB",
+            "issueE": "valueM"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.9649280176,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2037485152
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueG",
+            "issueA": "valueB",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.9612539584,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2582121763
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueG",
+            "issueA": "valueB",
+            "issueE": "valueK"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.9696576012,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.204488944
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.3122175916,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9757534099
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueM"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.95814,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.4561621662
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.3122175916,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9757534099
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueK"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.9453143368,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.474478944
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.3122175916,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9757534099
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.936910694,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5282021763
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.3122175916,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9757534099
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueA": "valueC",
+            "issueE": "valueM"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.9354341052,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.234637453
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueF"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2309392224,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9696269791
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueA": "valueC",
+            "issueE": "valueK"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.922608442,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2529542308
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueF"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2309392224,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9696269791
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueA": "valueC",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.9142047992,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3066774631
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.3767834864,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9472565835
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueG",
+            "issueA": "valueC",
+            "issueE": "valueM"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.9179173696,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2146689926
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.3767834864,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9472565835
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueG",
+            "issueA": "valueC",
+            "issueE": "valueK"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.9050917064,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2329857704
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueF"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2955051172,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9411301527
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueM"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.8935741052,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.4846589926
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueN"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2429668632,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9341922922
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueK"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.880748442,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5029757704
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueK"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.3206212344,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9220301776
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.8723447992,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5566990027
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueG"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2285801748,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9105395908
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueH",
+            "issueA": "valueC",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.8819943664,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3173879664
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2373403808,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.89917
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueC",
+            "issueA": "valueC",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.8800579228,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.4067708558
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueG"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2931460696,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.8820427644
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueD",
+            "issueA": "valueC",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.8791328168,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3042853517
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.3019062756,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.8706731736
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.8620334832,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.4516187664
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueO"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2410092036,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.8583823541
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.85202,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5524487664
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueC"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.231598482,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.837846308
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueF"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.8556323248,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5220757455
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueC",
+            "issueA": "valueC",
+            "issueE": "valueF"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.238652346,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.8196988322
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueG"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.8532732772,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.4629883572
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueB",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueM"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.2550068976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.7999433998
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.8343124524,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.4865868622
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueC",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueB"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.5121271571,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.7791569807
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueA"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.824037914,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5177453488
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueC",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueB",
+            "issueE": "valueO"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.5096928743,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.7574690985
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.8183732284,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.4901098624
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueB",
+            "issueB": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueL"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.1628164632,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.7341579803
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueG",
+            "issueA": "valueC",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.8117973696,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3109555928
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueC",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.4740948103,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.7090448402
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueO"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.8032405164,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5014179469
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueC",
+            "issueC": "valueB",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueK"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.4441949051,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.6837537484
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.7974675884,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.4801155928
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueB",
+            "issueB": "valueF",
+            "issueA": "valueC",
+            "issueE": "valueD"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.1529449208,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.6566050126
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.7874541052,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5809455928
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueA",
+            "issueB": "valueA",
+            "issueA": "valueB",
+            "issueE": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.30310096,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.6265887141
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueF"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.79106643,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5505725719
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueA",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.4139369994,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5949378568
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueG"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.7887073824,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.4914851836
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueI",
+            "issueC": "valueB",
+            "issueB": "valueA",
+            "issueA": "valueC",
+            "issueE": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.1810007052,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5613098101
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueA",
+            "issueE": "valueJ"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.78535,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5188555928
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueC",
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueA": "valueC",
+            "issueE": "valueG"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.4724538455,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.526011622
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_hybrid_hybrid_agent_HybridAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueD"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.790710928,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5212068427
+        }
+      }
+    },
+    {
+      "Accept": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueD": "valueH",
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueA": "valueC",
+            "issueE": "valueD"
+          }
+        },
+        "utilities": {
+          "agents_hybrid_hybrid_agent_HybridAgent_1": 0.790710928,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5212068427
+        }
+      }
+    }
+  ],
+  "connections": [
+    "agents_hybrid_hybrid_agent_HybridAgent_1",
+    "agents_ada_agent_ada_agent_ADAgent_2"
+  ],
+  "progress": {
+    "ProgressTime": {
+      "duration": 10000,
+      "start": 1685348751989
+    }
+  },
+  "settings": {
+    "SAOPSettings": {
+      "participants": [
+        {
+          "TeamInfo": {
+            "parties": [
+              {
+                "party": {
+                  "partyref": "pythonpath:agents.hybrid.hybrid_agent.HybridAgent",
+                  "parameters": {
+                    "storage_dir": "agent_storage/HybridAgent"
+                  }
+                },
+                "profile": "file:domains/domain00/profileA.json"
+              }
+            ]
+          }
+        },
+        {
+          "TeamInfo": {
+            "parties": [
+              {
+                "party": {
+                  "partyref": "pythonpath:agents.ada_agent.ada_agent.ADAgent",
+                  "parameters": {
+                    "storage_dir": "agent_storage/ADAgent"
+                  }
+                },
+                "profile": "file:domains/domain00/profileB.json"
+              }
+            ]
+          }
+        }
+      ],
+      "deadline": {
+        "DeadlineTime": {
+          "durationms": 10000
+        }
+      }
+    }
+  },
+  "partyprofiles": {
+    "agents_hybrid_hybrid_agent_HybridAgent_1": {
+      "party": {
+        "partyref": "pythonpath:agents.hybrid.hybrid_agent.HybridAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/HybridAgent"
+        }
+      },
+      "profile": "file:domains/domain00/profileA.json"
+    },
+    "agents_ada_agent_ada_agent_ADAgent_2": {
+      "party": {
+        "partyref": "pythonpath:agents.ada_agent.ada_agent.ADAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/ADAgent"
+        }
+      },
+      "profile": "file:domains/domain00/profileB.json"
+    }
+  },
+  "error": null
+}

@@ -1,0 +1,1858 @@
+{
+  "actions": [
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueE": "valueK",
+            "issueA": "valueB",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.9871743368,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2244574044
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueE": "valueB",
+            "issueA": "valueB",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.978770694,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2781806367
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueD",
+            "issueE": "valueM",
+            "issueA": "valueB",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.9649280176,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2037485152
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueA",
+            "issueE": "valueM",
+            "issueA": "valueB",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.9593346844,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2120777067
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueF",
+            "issueE": "valueK",
+            "issueA": "valueB",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.9461155372,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2945927067
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueF",
+            "issueE": "valueB",
+            "issueA": "valueB",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.9377118944,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.348315939
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueE": "valueB",
+            "issueA": "valueC",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.9142047992,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3066774631
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueE": "valueI",
+            "issueA": "valueB",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.9038934832,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2015972268
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueH",
+            "issueE": "valueA",
+            "issueA": "valueB",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.898253376,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2499374861
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueE": "valueE",
+            "issueA": "valueC",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.8761724524,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2365653226
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueE": "valueA",
+            "issueA": "valueC",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.865897914,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2677238092
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueG",
+            "issueA": "valueB",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.8532732772,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.4629883572
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueH",
+            "issueE": "valueE",
+            "issueA": "valueC",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.8439620196,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2472758259
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueE": "valueC",
+            "issueA": "valueA",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.8335856896,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1687703612
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueG",
+            "issueE": "valueK",
+            "issueA": "valueA",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.8245476012,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.0671257704
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueC",
+            "issueE": "valueC",
+            "issueA": "valueA",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.7994388132,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2688637539
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueC",
+            "issueE": "valueG",
+            "issueA": "valueA",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.7943164008,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2794670367
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueE": "valueH",
+            "issueA": "valueC",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.7817932284,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1363183228
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueC",
+            "issueE": "valueE",
+            "issueA": "valueA",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.7614814708,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1707987153
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2273268976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 1.0
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueC",
+            "issueE": "valueA",
+            "issueA": "valueC",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.7533110376,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2640472019
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueB",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.3122175916,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9757534099
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueB",
+            "issueE": "valueA",
+            "issueA": "valueA",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.7434938088,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3518853488
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueB",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.3122175916,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9757534099
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueH",
+            "issueE": "valueL",
+            "issueA": "valueC",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.7346973432,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1378825368
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueB",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.3122175916,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9757534099
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueF",
+            "issueE": "valueF",
+            "issueA": "valueA",
+            "issueD": "valueH"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.7113235252,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2048263346
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueB",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.3122175916,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9757534099
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueE": "valueK",
+            "issueA": "valueA",
+            "issueD": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.7013551677,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1566573152
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueB",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.3122175916,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9757534099
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueE",
+            "issueE": "valueI",
+            "issueA": "valueB",
+            "issueD": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.6847443141,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1673903112
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueB",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2918927924,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9715031736
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueF",
+            "issueE": "valueM",
+            "issueA": "valueA",
+            "issueD": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.6731220313,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2084758397
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueF",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2309392224,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9696269791
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueC",
+            "issueE": "valueM",
+            "issueA": "valueB",
+            "issueD": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.6682639545,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1682571037
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueF",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2309392224,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9696269791
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueH",
+            "issueE": "valueB",
+            "issueA": "valueB",
+            "issueD": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.6489710921,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1509142244
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueF",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2309392224,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9696269791
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueG",
+            "issueE": "valueE",
+            "issueA": "valueA",
+            "issueD": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.6374024425,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1202999466
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueB",
+            "issueA": "valueB",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.3767834864,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9472565835
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueG",
+            "issueE": "valueE",
+            "issueA": "valueB",
+            "issueD": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.6256324425,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.0501231202
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueB",
+            "issueA": "valueB",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.3767834864,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9472565835
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueH",
+            "issueE": "valueK",
+            "issueA": "valueB",
+            "issueD": "valueF"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.6135687886,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3630534941
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueB",
+            "issueA": "valueB",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.3767834864,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9472565835
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueC",
+            "issueE": "valueA",
+            "issueA": "valueB",
+            "issueD": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.5987277633,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2013434599
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueD",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2305837204,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9402612499
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueH",
+            "issueE": "valueK",
+            "issueA": "valueA",
+            "issueD": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.5907047349,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.0635978185
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueN",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2429668632,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9341922922
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueH",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.5779545033,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3074276409
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueN",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2429668632,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9341922922
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueF",
+            "issueE": "valueI",
+            "issueA": "valueB",
+            "issueD": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.5652455145,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1337556135
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueO",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2431133088,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9204723541
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueC",
+            "issueE": "valueM",
+            "issueA": "valueB",
+            "issueD": "valueF"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.5460180082,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3303496057
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueB",
+            "issueA": "valueA",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.3101134864,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9136634099
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueC",
+            "issueE": "valueE",
+            "issueA": "valueB",
+            "issueD": "valueA"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.533074365,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3221541529
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueE",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2741852448,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.9056412694
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueD",
+            "issueE": "valueI",
+            "issueA": "valueB",
+            "issueD": "valueF"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.5274263854,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3270907018
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.1488868976,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.89623
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueG",
+            "issueE": "valueC",
+            "issueA": "valueB",
+            "issueD": "valueA"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.5092218482,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1963873384
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueO",
+            "issueA": "valueB",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.3076792036,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.8919755277
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueB",
+            "issueE": "valueN",
+            "issueA": "valueC",
+            "issueD": "valueE"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.5055049017,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3771609694
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueD",
+            "issueA": "valueA",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2284796152,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.8781712499
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueF",
+            "issueE": "valueF",
+            "issueA": "valueB",
+            "issueD": "valueA"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.4829164194,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.3561817722
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueB",
+            "issueE": "valueJ",
+            "issueA": "valueB",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2134527924,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.8677331736
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueB",
+            "issueE": "valueA",
+            "issueA": "valueB",
+            "issueD": "valueF"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.4687686934,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5133641088
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueO",
+            "issueA": "valueA",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2410092036,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.8583823541
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueH",
+            "issueE": "valueF",
+            "issueA": "valueA",
+            "issueD": "valueF"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.4572167766,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.377057122
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueH",
+            "issueA": "valueA",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2561419156,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.8470742696
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueF",
+            "issueE": "valueH",
+            "issueA": "valueA",
+            "issueD": "valueA"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.4435532178,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.2621258891
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueF",
+            "issueA": "valueC",
+            "issueD": "valueC"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.4329528931,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.8351205499
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueF",
+            "issueE": "valueC",
+            "issueA": "valueA",
+            "issueD": "valueC"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.4344133531,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.5234536415
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueC",
+            "issueE": "valueJ",
+            "issueA": "valueB",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.299605916,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.8215750267
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueH",
+            "issueE": "valueO",
+            "issueA": "valueB",
+            "issueD": "valueA"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.4254988726,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1438323482
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueB",
+            "issueE": "valueB",
+            "issueA": "valueA",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2316734864,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.8098934099
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueE": "valueN",
+            "issueA": "valueC",
+            "issueD": "valueC"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.4084005339,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.4458943234
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueC",
+            "issueE": "valueB",
+            "issueA": "valueB",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.38449661,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.7973284366
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueE",
+            "issueE": "valueN",
+            "issueA": "valueC",
+            "issueD": "valueA"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.392996965,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.1753386094
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueC",
+            "issueE": "valueN",
+            "issueA": "valueC",
+            "issueD": "valueI"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.2506799868,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.7842641453
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueB",
+            "issueB": "valueG",
+            "issueE": "valueM",
+            "issueA": "valueB",
+            "issueD": "valueG"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.3789293091,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.046675561
+        }
+      }
+    },
+    {
+      "Offer": {
+        "actor": "agents_ada_agent_ada_agent_ADAgent_2",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueM",
+            "issueA": "valueC",
+            "issueD": "valueC"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.5354605683,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.7692069706
+        }
+      }
+    },
+    {
+      "Accept": {
+        "actor": "agents_linear_agent_linear_agent_LinearAgent_1",
+        "bid": {
+          "issuevalues": {
+            "issueC": "valueA",
+            "issueB": "valueB",
+            "issueE": "valueM",
+            "issueA": "valueC",
+            "issueD": "valueC"
+          }
+        },
+        "utilities": {
+          "agents_linear_agent_linear_agent_LinearAgent_1": 0.5354605683,
+          "agents_ada_agent_ada_agent_ADAgent_2": 0.7692069706
+        }
+      }
+    }
+  ],
+  "connections": [
+    "agents_linear_agent_linear_agent_LinearAgent_1",
+    "agents_ada_agent_ada_agent_ADAgent_2"
+  ],
+  "progress": {
+    "ProgressTime": {
+      "duration": 10000,
+      "start": 1685348860682
+    }
+  },
+  "settings": {
+    "SAOPSettings": {
+      "participants": [
+        {
+          "TeamInfo": {
+            "parties": [
+              {
+                "party": {
+                  "partyref": "pythonpath:agents.linear_agent.linear_agent.LinearAgent",
+                  "parameters": {
+                    "storage_dir": "agent_storage/LinearAgent"
+                  }
+                },
+                "profile": "file:domains/domain00/profileA.json"
+              }
+            ]
+          }
+        },
+        {
+          "TeamInfo": {
+            "parties": [
+              {
+                "party": {
+                  "partyref": "pythonpath:agents.ada_agent.ada_agent.ADAgent",
+                  "parameters": {
+                    "storage_dir": "agent_storage/ADAgent"
+                  }
+                },
+                "profile": "file:domains/domain00/profileB.json"
+              }
+            ]
+          }
+        }
+      ],
+      "deadline": {
+        "DeadlineTime": {
+          "durationms": 10000
+        }
+      }
+    }
+  },
+  "partyprofiles": {
+    "agents_linear_agent_linear_agent_LinearAgent_1": {
+      "party": {
+        "partyref": "pythonpath:agents.linear_agent.linear_agent.LinearAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/LinearAgent"
+        }
+      },
+      "profile": "file:domains/domain00/profileA.json"
+    },
+    "agents_ada_agent_ada_agent_ADAgent_2": {
+      "party": {
+        "partyref": "pythonpath:agents.ada_agent.ada_agent.ADAgent",
+        "parameters": {
+          "storage_dir": "agent_storage/ADAgent"
+        }
+      },
+      "profile": "file:domains/domain00/profileB.json"
+    }
+  },
+  "error": null
+}

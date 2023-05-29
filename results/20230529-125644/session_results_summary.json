@@ -1,0 +1,10 @@
+{
+  "num_offers": 84,
+  "agent_1": "HybridAgent",
+  "utility_1": 0.7866032772,
+  "agent_2": "ADAgent",
+  "utility_2": 0.4293951836,
+  "nash_product": 0.3377636586336557,
+  "social_welfare": 1.2159984608,
+  "result": "agreement"
+}

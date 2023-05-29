@@ -1,0 +1,135 @@
+2023-04-14 15:47:45,308 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:47:54,108 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_ANL2022_charging_boul_charging_boul_ChargingBoul_10=Bid{issueA="valueC", issueD="valueH", issueB="valueB", issueE="valueK", issueC="valueA"}, agents_boulware_agent_boulware_agent_BoulwareAgent_11=Bid{issueA="valueC", issueD="valueH", issueB="valueB", issueE="valueK", issueC="valueA"}}]
+2023-04-14 15:47:54,217 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:01,275 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:01,275 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:11,342 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:48:11,342 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:48:11,523 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:11,523 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:19,040 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:19,040 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:19,040 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:28,974 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_ANL2022_charging_boul_charging_boul_ChargingBoul_14=Bid{issueA="valueA", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}, agents_ANL2022_LuckyAgent2022_LuckyAgent2022_LuckyAgent2022_15=Bid{issueA="valueA", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}}]
+2023-04-14 15:48:28,974 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_ANL2022_charging_boul_charging_boul_ChargingBoul_14=Bid{issueA="valueA", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}, agents_ANL2022_LuckyAgent2022_LuckyAgent2022_LuckyAgent2022_15=Bid{issueA="valueA", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}}]
+2023-04-14 15:48:28,974 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_ANL2022_charging_boul_charging_boul_ChargingBoul_14=Bid{issueA="valueA", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}, agents_ANL2022_LuckyAgent2022_LuckyAgent2022_LuckyAgent2022_15=Bid{issueA="valueA", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}}]
+2023-04-14 15:48:29,106 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:29,106 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:29,106 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:35,103 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:35,103 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:35,103 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:35,103 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:45,052 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_ANL2022_charging_boul_charging_boul_ChargingBoul_16=Bid{issueA="valueB", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}, agents_hybrid_hybrid_agent_HybridAgent_17=Bid{issueA="valueB", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}}]
+2023-04-14 15:48:45,052 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_ANL2022_charging_boul_charging_boul_ChargingBoul_16=Bid{issueA="valueB", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}, agents_hybrid_hybrid_agent_HybridAgent_17=Bid{issueA="valueB", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}}]
+2023-04-14 15:48:45,052 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_ANL2022_charging_boul_charging_boul_ChargingBoul_16=Bid{issueA="valueB", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}, agents_hybrid_hybrid_agent_HybridAgent_17=Bid{issueA="valueB", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}}]
+2023-04-14 15:48:45,052 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_ANL2022_charging_boul_charging_boul_ChargingBoul_16=Bid{issueA="valueB", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}, agents_hybrid_hybrid_agent_HybridAgent_17=Bid{issueA="valueB", issueD="valueC", issueB="valueB", issueE="valueM", issueC="valueA"}}]
+2023-04-14 15:48:45,082 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:45,082 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:45,082 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:45,082 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:50,320 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:50,320 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:50,320 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:50,320 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:50,320 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:48:57,854 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_ANL2022_charging_boul_charging_boul_ChargingBoul_18=Bid{issueA="valueB", issueD="valueH", issueB="valueF", issueE="valueB", issueC="valueA"}, agents_template_agent_template_agent_TemplateAgent_19=Bid{issueA="valueB", issueD="valueH", issueB="valueF", issueE="valueB", issueC="valueA"}}]
+2023-04-14 15:48:57,854 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_ANL2022_charging_boul_charging_boul_ChargingBoul_18=Bid{issueA="valueB", issueD="valueH", issueB="valueF", issueE="valueB", issueC="valueA"}, agents_template_agent_template_agent_TemplateAgent_19=Bid{issueA="valueB", issueD="valueH", issueB="valueF", issueE="valueB", issueC="valueA"}}]
+2023-04-14 15:48:57,854 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_ANL2022_charging_boul_charging_boul_ChargingBoul_18=Bid{issueA="valueB", issueD="valueH", issueB="valueF", issueE="valueB", issueC="valueA"}, agents_template_agent_template_agent_TemplateAgent_19=Bid{issueA="valueB", issueD="valueH", issueB="valueF", issueE="valueB", issueC="valueA"}}]
+2023-04-14 15:48:57,854 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_ANL2022_charging_boul_charging_boul_ChargingBoul_18=Bid{issueA="valueB", issueD="valueH", issueB="valueF", issueE="valueB", issueC="valueA"}, agents_template_agent_template_agent_TemplateAgent_19=Bid{issueA="valueB", issueD="valueH", issueB="valueF", issueE="valueB", issueC="valueA"}}]
+2023-04-14 15:48:57,854 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_ANL2022_charging_boul_charging_boul_ChargingBoul_18=Bid{issueA="valueB", issueD="valueH", issueB="valueF", issueE="valueB", issueC="valueA"}, agents_template_agent_template_agent_TemplateAgent_19=Bid{issueA="valueB", issueD="valueH", issueB="valueF", issueE="valueB", issueC="valueA"}}]
+2023-04-14 15:48:57,876 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:57,876 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:57,876 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:57,876 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:48:57,876 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:49:20,094 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:49:20,094 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:49:20,094 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:49:20,094 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:49:20,094 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:49:20,094 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:49:30,133 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:49:30,133 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:49:30,133 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:49:30,133 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:49:30,133 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:49:30,133 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:49:30,261 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:49:30,261 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:49:30,261 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:49:30,261 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:49:30,261 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:49:30,261 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:50:35,660 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:50:35,660 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:50:35,660 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:50:35,660 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:50:35,660 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:50:35,660 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:50:35,660 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:50:45,678 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:50:45,678 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:50:45,678 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:50:45,678 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:50:45,678 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:50:45,678 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:50:45,678 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:50:45,804 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:50:45,804 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:50:45,804 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:50:45,804 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:50:45,804 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:50:45,804 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:50:45,804 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:51:49,436 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:51:49,436 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:51:49,436 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:51:49,436 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:51:49,436 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:51:49,436 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:51:49,436 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:51:49,436 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:51:59,508 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:51:59,508 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:51:59,508 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:51:59,508 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:51:59,508 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:51:59,508 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:51:59,508 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:51:59,508 - ChargingBoul - INFO - Final outcome:Finished[Agreements{}]
+2023-04-14 15:51:59,590 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:51:59,590 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:51:59,590 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:51:59,590 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:51:59,590 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:51:59,590 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:51:59,590 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:51:59,590 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:52:58,280 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:52:58,280 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:52:58,280 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:52:58,280 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:52:58,280 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:52:58,280 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:52:58,280 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:52:58,280 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:52:58,280 - ChargingBoul - INFO - party is initialized
+2023-04-14 15:53:05,684 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_template_agent_template_agent_TemplateAgent_52=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}, agents_ANL2022_charging_boul_charging_boul_ChargingBoul_53=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}}]
+2023-04-14 15:53:05,684 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_template_agent_template_agent_TemplateAgent_52=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}, agents_ANL2022_charging_boul_charging_boul_ChargingBoul_53=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}}]
+2023-04-14 15:53:05,684 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_template_agent_template_agent_TemplateAgent_52=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}, agents_ANL2022_charging_boul_charging_boul_ChargingBoul_53=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}}]
+2023-04-14 15:53:05,684 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_template_agent_template_agent_TemplateAgent_52=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}, agents_ANL2022_charging_boul_charging_boul_ChargingBoul_53=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}}]
+2023-04-14 15:53:05,684 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_template_agent_template_agent_TemplateAgent_52=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}, agents_ANL2022_charging_boul_charging_boul_ChargingBoul_53=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}}]
+2023-04-14 15:53:05,684 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_template_agent_template_agent_TemplateAgent_52=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}, agents_ANL2022_charging_boul_charging_boul_ChargingBoul_53=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}}]
+2023-04-14 15:53:05,684 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_template_agent_template_agent_TemplateAgent_52=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}, agents_ANL2022_charging_boul_charging_boul_ChargingBoul_53=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}}]
+2023-04-14 15:53:05,684 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_template_agent_template_agent_TemplateAgent_52=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}, agents_ANL2022_charging_boul_charging_boul_ChargingBoul_53=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}}]
+2023-04-14 15:53:05,684 - ChargingBoul - INFO - Final outcome:Finished[Agreements{agents_template_agent_template_agent_TemplateAgent_52=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}, agents_ANL2022_charging_boul_charging_boul_ChargingBoul_53=Bid{issueA="valueB", issueD="valueI", issueB="valueB", issueE="valueD", issueC="valueA"}}]
+2023-04-14 15:53:05,696 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:53:05,696 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:53:05,696 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:53:05,696 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:53:05,696 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:53:05,696 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:53:05,696 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:53:05,696 - ChargingBoul - INFO - party is terminating:
+2023-04-14 15:53:05,696 - ChargingBoul - INFO - party is terminating:

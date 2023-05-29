@@ -1,0 +1,3 @@
+2023-05-29 11:31:07,977 - HardlinerAgent - INFO - party is initialized
+2023-05-29 11:31:17,319 - HardlinerAgent - INFO - Final ourcome:Finished[Agreements{agents_hardliner_agent_hardliner_agent_HardlinerAgent_1=Bid{issueB="valueE", issueA="valueB", issueC="valueA", issueD="valueH", issueE="valueK"}, agents_ada_agent_ada_agent_ADAgent_2=Bid{issueB="valueE", issueA="valueB", issueC="valueA", issueD="valueH", issueE="valueK"}}]
+2023-05-29 11:31:17,319 - HardlinerAgent - INFO - party is terminating:

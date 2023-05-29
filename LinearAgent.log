@@ -1,0 +1,9 @@
+2023-05-29 10:46:22,118 - LinearAgent - INFO - party is initialized
+2023-05-29 10:46:27,756 - LinearAgent - INFO - Final ourcome:Finished[Agreements{agents_linear_agent_linear_agent_LinearAgent_1=Bid{issueB="valueB", issueD="valueC", issueA="valueC", issueE="valueF", issueC="valueA"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueB="valueB", issueD="valueC", issueA="valueC", issueE="valueF", issueC="valueA"}}]
+2023-05-29 10:46:27,762 - LinearAgent - INFO - party is terminating:
+2023-05-29 11:15:49,386 - LinearAgent - INFO - party is initialized
+2023-05-29 11:15:54,959 - LinearAgent - INFO - Final ourcome:Finished[Agreements{agents_linear_agent_linear_agent_LinearAgent_1=Bid{issueA="valueC", issueC="valueA", issueD="valueC", issueB="valueB", issueE="valueB"}, agents_template_agent_template_agent_TemplateAgent_2=Bid{issueA="valueC", issueC="valueA", issueD="valueC", issueB="valueB", issueE="valueB"}}]
+2023-05-29 11:15:54,959 - LinearAgent - INFO - party is terminating:
+2023-05-29 11:27:40,677 - LinearAgent - INFO - party is initialized
+2023-05-29 11:27:46,963 - LinearAgent - INFO - Final ourcome:Finished[Agreements{agents_linear_agent_linear_agent_LinearAgent_1=Bid{issueC="valueA", issueB="valueB", issueE="valueM", issueA="valueC", issueD="valueC"}, agents_ada_agent_ada_agent_ADAgent_2=Bid{issueC="valueA", issueB="valueB", issueE="valueM", issueA="valueC", issueD="valueC"}}]
+2023-05-29 11:27:46,963 - LinearAgent - INFO - party is terminating:

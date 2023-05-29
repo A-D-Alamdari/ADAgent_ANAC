@@ -1,0 +1,15 @@
+2023-05-29 11:34:37,178 - StupidAgent - INFO - party is initialized
+2023-05-29 11:34:37,182 - StupidAgent - INFO - sending empty offer:
+2023-05-29 11:34:37,183 - StupidAgent - INFO - sent empty offer:
+2023-05-29 11:34:37,304 - StupidAgent - INFO - sending accept:
+2023-05-29 11:34:37,305 - StupidAgent - INFO - party is terminating:
+2023-05-29 11:36:05,170 - StupidAgent - INFO - party is initialized
+2023-05-29 11:36:05,174 - StupidAgent - INFO - sending empty offer:
+2023-05-29 11:36:05,175 - StupidAgent - INFO - sent empty offer:
+2023-05-29 11:36:05,293 - StupidAgent - INFO - sending accept:
+2023-05-29 11:36:05,296 - StupidAgent - INFO - party is terminating:
+2023-05-29 11:36:45,169 - StupidAgent - INFO - party is initialized
+2023-05-29 11:36:45,175 - StupidAgent - INFO - sending empty offer:
+2023-05-29 11:36:45,175 - StupidAgent - INFO - sent empty offer:
+2023-05-29 11:36:45,294 - StupidAgent - INFO - sending accept:
+2023-05-29 11:36:45,297 - StupidAgent - INFO - party is terminating:
